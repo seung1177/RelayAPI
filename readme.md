@@ -1,4 +1,4 @@
-# 🌐 Express Proxy Server
+# 🌐 Express API Server
 
 ## 📖 개요
 
